@@ -1,0 +1,13 @@
+1 + 9 = 10
+2-1 = 1
+8 + 7 * 2 = 30
+8 - 7 * 2 - 9 = -7
+7/3 = 2
+4/2 = 2
+Error evaluating line 7: 9/0 - Division by zero
+7%3 = 1
+Error evaluating line 9: 9%0 - / by zero
+Invalid line at 10: l
+Invalid line at 11: 7 ++
+Invalid line at 12: + 7 8
+Error evaluating line 13: 90 - Malformed expression
